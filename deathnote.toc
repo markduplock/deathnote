@@ -1,0 +1,7 @@
+## Interface: 20506
+## Title: Death Note
+## Notes: Keeps a record of your deaths
+## Author: Altix
+## Version: 0.0.1
+
+deathnote.lua
